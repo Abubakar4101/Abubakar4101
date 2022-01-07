@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ M.Abubakar Siddique
 - 👀 I’m interested in Programming
-- 🌱 I’m currently Software Engineering
 - 💞️ I’m a freelancer
 
 <!---
