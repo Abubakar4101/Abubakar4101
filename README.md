@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ReactJs, NextJs, NodeJS, MERN**
 
-- 📫 How to reach me **devabubakarsiddique@gmail.com**
+- 📫 How to reach me **dev.abubakarsiddique@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
