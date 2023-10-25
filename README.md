@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN, DevOps**
 
-- 👨‍💻 All of my projects are available at <a href="https://dev-abubakar.netlify.app/">dev-abubakar.netlify.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://ab-sidd.vercel.app/">ab-sidd.vercel.app</a>
 
 - 💬 Ask me about **ReactJs, NextJs, NodeJS, MERN**
 
